@@ -1,5 +1,5 @@
 <p align="center">
-<a href="//Thegodofdarkness.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=The%20God%20Of%20Darkness%20&description=zzz&image=https://avatars.githubusercontent.com/Thegodofdarkness&usqp=CAU&backgroundColor=%23ecf0f1&github=Thegodofdarkness&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
+<a href="//Thegodofdarkness.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=The%20God%20Of%20Darkness%20&description=No%20inporta%20cuantas%20veces%20tenga%20que%20morir%20siempre%20me%20enamórate%20de%20ti&image=https://avatars.githubusercontent.com/Thegodofdarkness&usqp=CAU&backgroundColor=%23ecf0f1&github=Thegodofdarkness&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
 </p>
 
 ## Redes sociales
@@ -19,6 +19,10 @@
 <p align="center">
 <img align="center" alt="count" src="https://count.getloli.com/get/@:Thegodofdarkness?theme=rule35">
 </p>
+
+## Proyectos
+- WhatsApp Bot - Tokisaki kurumi
+- WhatsApp Bot - Darling
 
 ## Estadística
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Thegodofdarkness&theme=highcontrast&show_icons=true) 
