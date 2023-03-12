@@ -1,24 +1,26 @@
-## My Profile
 <p align="center">
-<a href="//Thegodofdarkness.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=The%20God%20Of%20Darkness%20&description=Welcome%20to%20%20my%20profile&image=https://avatars.githubusercontent.com/Thegodofdarkness&usqp=CAU&backgroundColor=%23ecf0f1&github=Thegodofdarkness&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
+<a href="//Thegodofdarkness.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=The%20God%20Of%20Darkness%20&description=zzz&image=https://avatars.githubusercontent.com/Thegodofdarkness&usqp=CAU&backgroundColor=%23ecf0f1&github=Thegodofdarkness&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
 </p>
 
-## Social Networks
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DxiIA0BgmaM6QU4NeaKwj0)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thegodofdarkness_505)
-[![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thegodofdarkness6741)
-[![Paypal](https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/thetgodofc662)
-[![Página Web](https://img.shields.io/badge/Google-black?style=for-the-badge&logo=google&logoColor=white)]( )
+## Redes sociales
+<p align="center">
+  <a href="https://instagram.com/thegodofdarkness_505"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/+51955088505"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.paypal.me/thetgodofc662"><img src="https://img.shields.io/badge/Paypal-%230088cc.svg?&style=for-the-badge&logo=paypal&logoColor=white" /> <br>
+  <a href="https://youtube.com/@thegodofdarkness6741"><img src="https://img.shields.io/badge/YouTube-Darkness-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@thegodofdarkness6741"/><br>
+  <a href="https://github.com/Thegodofdarkness"><img src="https://img.shields.io/badge/-Google-white?style=flat-square&logo=google" /> 
+</p>
 
-## My Waifu
+## Waifu
 
-## My Loli
+## Loli
 
-## Github Statistik
+## Vistas
+<p align="center">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:Thegodofdarkness?theme=rule35">
+</p>
+
+## Estadística
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Thegodofdarkness&theme=highcontrast&show_icons=true) 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thegodofdarkness&theme=great-gatsby)
 ![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thegodofdarkness&theme=monokai)
-
-
-
-
