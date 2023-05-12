@@ -15,7 +15,7 @@
 
 ## Loli
 
-## Vistas
+## Visitas
 <p align="center">
 <img align="center" alt="count" src="https://count.getloli.com/get/@:Thegodofdarkness?theme=rule35">
 </p>
