@@ -13,10 +13,9 @@
 ## Visitas
 <p align="center">
 <p align="center"><img src="https://count.getloli.com/get/@Thegodofdarkness-github-readme?theme=rule34" /></p>
-<p align="center"><img src="https://count.getloli.com/get/@:Thegodofdarkness?theme=rule35" /></p>
 </p>
 
-## Estadística 🚀
+## Estadística
 
 <p align="center"><a href="https://github.com/Thegodofdarkness"><img src="https://github-readme-stats.vercel.app/api?username=Thegodofdarkness&show_icons=true&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/Thegodofdarkness"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
