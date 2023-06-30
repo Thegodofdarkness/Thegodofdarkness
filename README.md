@@ -14,13 +14,3 @@
 <p align="center">
 <p align="center"><img src="https://count.getloli.com/get/@Thegodofdarkness-github-readme?theme=rule34" /></p>
 </p>
-
-## Estadística
-
-<p align="center"><a href="https://github.com/Thegodofdarkness"><img src="https://github-readme-stats.vercel.app/api?username=Thegodofdarkness&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/Thegodofdarkness"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/Thegodofdarkness"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegodofdarkness&theme=chartreuse-dark&layout=compact"></a>
-</p> 
-
-<p align="center"><a href="https://github.com/Thegodofdarkness"><img src="https://github-profile-trophy.vercel.app/?username=Thegodofdarkness"></a></p>
-<p align="center"><a href="https://github.com/Thegodofdarkness"><img src="https://metrics.lecoq.io/Thegodofdarkness?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta"></a></p>
